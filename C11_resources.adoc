@@ -3,3 +3,4 @@
 . http://www.open-std.org/JTC1/SC22/WG14[Offical home of C11: JTC1/SC22/WG14 - C]
 . http://www.open-std.org/JTC1/SC22/WG14/www/docs/n1570.pdf[ISO/IEC 9899:201x draft]
 . http://www.open-std.org/JTC1/SC22/WG14/www/standards.html#9899[ISO/IEC 9899:1999]
+. https://www.slideshare.net/olvemaudal/deep-c[Deep C (and C++)]
