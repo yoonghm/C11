@@ -1,4 +1,4 @@
 == C11 Standard
 
-. http://www.open-std.org/JTC1/SC22/WG14[Offical Home of C11: JTC1/SC22/WG14 - C]
-. http://www.open-std.org/JTC1/SC22/WG14/www/docs/n1570.pdf[ISO/IEC 9899:201x Draft Standard] 
+. http://www.open-std.org/JTC1/SC22/WG14[Offical home of C11: JTC1/SC22/WG14 - C]
+. http://www.open-std.org/JTC1/SC22/WG14/www/docs/n1570.pdf[ISO/IEC 9899:201x draft] 
